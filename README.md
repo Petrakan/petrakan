@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 ### Activity:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Petrakan&theme=dark&hide=contribs,issues&count_private=true&show_icons=true)
-
+-->
 <p align="left">
 </p>
 
